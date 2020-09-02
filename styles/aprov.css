@@ -1,0 +1,21 @@
+header{
+    height: 80px;
+    padding: 10px;
+    margin-top: 0px;
+    background-image: linear-gradient(to bottom, white, black);
+
+}
+
+
+footer{
+    clear: both;
+    height: 10px;
+    text-align: center;
+    padding: 20px;
+    background-image: linear-gradient(to bottom, black, white);
+}
+
+
+header a img {
+    margin-top: 20px;
+}
